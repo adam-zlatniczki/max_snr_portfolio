@@ -8,9 +8,6 @@ from evaluate_weights import evaluate_weights
 
 
 def random_portfolio(params):
-#    import numpy as np
-#    from evaluate_weights import evaluate_weights
-
     (seed, num_assets, cumul_returns_df, longonly) = params
 
     np.random.seed(seed)
