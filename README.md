@@ -11,7 +11,7 @@ Repository structure
     - ***optimal_weights.py***: implementation of the portfolio optimization techniques covered in the article
     - ***evaluate_weights.py***: implementation of fractal dimension estimator, Hurst exponent estimators, and a utility function for evaluating a given portfolio
 
-- **data** directory: Contains intermediate results from the analysis that can be used instead of running the whole notebook from scratch, which would be quire time consuming
+- **data** directory: Contains intermediate results from the analysis that can be used instead of running the whole notebook from scratch, which would be quite time consuming
     - ***price_df.csv***: daily adjusted close prices of [AAPL, NKE, GOOGL, AMZN] between *2005-01-01* and *2022-12-31*
     - ***results_df.csv***: results of running the portfolio optimization in each subsample of the prices
 
