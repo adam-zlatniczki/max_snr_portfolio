@@ -1,6 +1,6 @@
 Description
 ===========
-The contents of the repository are supplementary material to an article on optimal portfolio choice, aiming to achieve a portfolio that exhibits smoothness, strong positive auto-correlation, and long memory.
+The contents of the repository are supplementary material to the article "Application of Portfolio Optimization to Achieve PersistentTime Series", DOI: https://doi.org/10.1007/s10957-024-02426-1. Optimal portfolio choice is used, aiming to achieve a portfolio that exhibits smoothness, strong positive auto-correlation, and long memory.
 
 
 Repository structure
